@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbda1fc4783b1e3290e8dace79797cfc",
+    "revision": "160b7d8d7869c4cbd66a1ecc2169919c",
     "url": "/pokemongo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemongo/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "80d1b298a1e78d6483b1",
+    "revision": "7354496cd0905f9d5034",
     "url": "/pokemongo/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemongo/static/js/2.ef65654f.chunk.js"
   },
   {
-    "revision": "80d1b298a1e78d6483b1",
-    "url": "/pokemongo/static/js/main.c13cb57b.chunk.js"
+    "revision": "7354496cd0905f9d5034",
+    "url": "/pokemongo/static/js/main.cd3c760f.chunk.js"
   },
   {
     "revision": "ab43f390ef3ac5035577",
