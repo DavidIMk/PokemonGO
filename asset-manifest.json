@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pokemongo/static/css/main.2cce8147.chunk.css",
-    "main.js": "/pokemongo/static/js/main.79dda990.chunk.js",
-    "main.js.map": "/pokemongo/static/js/main.79dda990.chunk.js.map",
+    "main.js": "/pokemongo/static/js/main.b37243a3.chunk.js",
+    "main.js.map": "/pokemongo/static/js/main.b37243a3.chunk.js.map",
     "runtime~main.js": "/pokemongo/static/js/runtime~main.85c08f77.js",
     "runtime~main.js.map": "/pokemongo/static/js/runtime~main.85c08f77.js.map",
     "static/css/2.266e55a5.chunk.css": "/pokemongo/static/css/2.266e55a5.chunk.css",
     "static/js/2.ef65654f.chunk.js": "/pokemongo/static/js/2.ef65654f.chunk.js",
     "static/js/2.ef65654f.chunk.js.map": "/pokemongo/static/js/2.ef65654f.chunk.js.map",
     "index.html": "/pokemongo/index.html",
-    "precache-manifest.833951707bc0d1e1d5df1e6ddbe0c72a.js": "/pokemongo/precache-manifest.833951707bc0d1e1d5df1e6ddbe0c72a.js",
+    "precache-manifest.76f5351b334c7234e274f1de0fa7733d.js": "/pokemongo/precache-manifest.76f5351b334c7234e274f1de0fa7733d.js",
     "service-worker.js": "/pokemongo/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/pokemongo/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/pokemongo/static/css/main.2cce8147.chunk.css.map"

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pokemongo/precache-manifest.833951707bc0d1e1d5df1e6ddbe0c72a.js"
+  "/pokemongo/precache-manifest.76f5351b334c7234e274f1de0fa7733d.js"
 );
 
 self.addEventListener('message', (event) => {
